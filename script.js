@@ -32,7 +32,7 @@ let priceBoxMobile = document.querySelector(".price-box-mobile")
 let shadow = document.querySelector(".shadow")
 
 
-let page = ["10K PAGEVIEWS", "50k PAGEVIEWS", "100K PAGEVIEWS", "500K PAGEVIEWS", "1M PAGEVIEWS"]
+let page = ["10K PAGEVIEWS", "50K PAGEVIEWS", "100K PAGEVIEWS", "500K PAGEVIEWS", "1M PAGEVIEWS"]
 let price1 = ["$8", "$12", "$16", "$24", "$36"]
 let price2 = ["$6", "$9", "$12", "$18", "$27"]
 let inputnumber = 2
