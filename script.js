@@ -37,7 +37,7 @@ let price1 = ["$8.00", "$12.00", "$16.00", "$24.00", "$36.00"]
 let price2 = ["$6.00", "$9.00", "$12.00", "$18.00", "$27.00"]
 let inputnumber = 2
 let outputview = "100K PAGEVIEWS"
-let outputprice = "$16"
+let outputprice = "$16.00"
 
 function inputValue(){
 	pageviewBox.innerHTML = outputview;
